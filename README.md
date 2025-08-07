@@ -6,7 +6,9 @@
 
 ## About Me
 
-I am a passionate Mechatronic Engineering graduate from Bayero University Kano, with a strong academic record (CGPA: 4.39). My expertise spans embedded systems, renewable energy, industrial automation, and artificial intelligence. I have successfully led and executed several innovative projects that blend hardware and software, with a special focus on solar energy solutions and smart systems. My career ambition is to advance the integration of intelligent, sustainable technologies in energy and automation sectors.
+I am Abdurrahman Adam, a passionate and innovative Mechatronic Engineering graduate from Bayero University Kano. My academic journey and hands-on experiences have equipped me with a unique blend of mechanical, electrical, and software engineering skills, with strong specialization in solar energy systems, artificial intelligence, and industrial robotics.
+
+I am driven by the vision of leveraging embedded systems, machine learning, and renewable energy solutions to address real-world challenges and create sustainable, technology-driven progress in Africa and beyond.
 
 ---
 
@@ -14,7 +16,7 @@ I am a passionate Mechatronic Engineering graduate from Bayero University Kano, 
 
 **Bayero University Kano**  
 _Bachelor of Engineering (B.Eng), Mechatronic Engineering_  
-Graduated with First Class Honours (CGPA: 4.39)
+Graduated with Second Class Upper Honours (CGPA: 4.39)
 
 ---
 
