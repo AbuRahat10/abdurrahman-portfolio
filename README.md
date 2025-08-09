@@ -60,7 +60,7 @@ Graduated with Second Class Upper Honours (CGPA: 4.39)
 
 ## Technical Tools
 
-- Microcontrollers (Arduino, PIC, Raspberry Pie, ESP32,etc.)
+- Microcontrollers (Arduino, PIC, Raspberry Pi, ESP32,etc.)
 - Teach Pendant Robot Programming
 - Python, MATLAB (AI/ML & Data Analytics)
 - Solar PV Design Software
